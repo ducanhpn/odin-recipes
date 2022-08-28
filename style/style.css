@@ -1,0 +1,18 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #F5E8C7;
+}
+h1,h2{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a{
+    text-decoration: none;
+}
+a:hover{
+    color:#2C3333;
+    font-weight: bold;
+}
+p,li{
+    color:#2C3639;
+}
